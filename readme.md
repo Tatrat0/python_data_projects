@@ -19,16 +19,5 @@ This repository contains SQL solutions to interview-style problems and analytica
 
 ---
 
-## 📊 SQL Practice Problems
-
-| Problem | Concepts |
-|--------|--------|
-| Matching Skills | GROUP BY, HAVING |
-| Best Selling Products | JOIN, window functions |
-| Tweets Histogram | aggregation, grouping |
-| Third Transaction | window functions |
-
----
-
 ## 🎯 Goal
 To demonstrate practical SQL skills for data analysis and readiness for real-world analytical tasks.
