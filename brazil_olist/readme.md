@@ -30,14 +30,8 @@
 
 ```text
 brazil_olist/
-
-sql/
 └── brazil_revenue.sql
-
-python/
 └── portfolio_brazil_ecommerce.ipynb
-
-power_bi/
 └── olist_brazil_dashB.pbix
 
 README.md
